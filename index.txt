@@ -1,10 +1,5 @@
-Ethan Ward - Web Developer from New York
-
-
-
 #---------- HEADER ----------#
 
-Ethan Ward
 
 aria-label = Toggle Menu
 
@@ -20,8 +15,6 @@ Blog
 
 Download CV
 
-
-
 #---------- HERO ----------#
 
 alt = Ethan's Photo
@@ -29,22 +22,7 @@ alt = Ethan's Photo
 12
 Years of Success
 
-800+
-Projects Completed
 
-<ion-icon name="trophy"></ion-icon>
-
-alt = I'm developer from New York
-
-Hello I'm
-
-Ethan Ward
-
-Web Developer from New York
-
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
-
-Get a Quote
 
 About Me
 
